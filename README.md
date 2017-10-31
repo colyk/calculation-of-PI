@@ -1,1 +1,1 @@
-# computing_PI\pi ={\frac  {9801}{2{\sqrt  {2}}\sum \limits _{{k=0}}^{\infty }\displaystyle {\frac  {(4k)!}{(k!)^{4}}}\times \displaystyle {\frac  {[1103+26390k]}{(4\times 99)^{{4k}}}}}}.
+# computing_PI
