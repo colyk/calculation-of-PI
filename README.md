@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/colyk/calculation-of-PI.svg?branch=master)](https://travis-ci.com/colyk/calculation-of-PI)
+
 # computing_PI
 
  - Chudnovsky.py https://en.wikipedia.org/wiki/Chudnovsky_algorithm 
