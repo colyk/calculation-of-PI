@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/colyk/calculation-of-PI.svg?branch=master)](https://travis-ci.com/colyk/calculation-of-PI)
+[![Documentation Status](https://readthedocs.org/projects/calculation-of-pi/badge/?version=latest)](https://calculation-of-pi.readthedocs.io/en/latest/?badge=latest)
 
 # computing_PI
 
