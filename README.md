@@ -10,4 +10,4 @@
   (at 100 iterations, the accuracy is about 800 decimals)
   
  - Leibniz.py https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
-  (at 500 000 iterations, the accuracy is about 10 decimals)
+(at 500 000 iterations, the accuracy is about 10 decimals)
